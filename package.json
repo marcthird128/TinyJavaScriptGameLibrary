@@ -1,0 +1,28 @@
+{
+  "name": "tjsgl",
+  "version": "1.0.0",
+  "description": "A simple 2d js game lib",
+  "main": "./src/core.js",
+  "scripts": {
+    "test": "echo \"Test this file by running debug.html\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcthird128/TinyJavaScriptGameLibrary.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "game",
+    "library"
+  ],
+  "author": "Marc Platt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcthird128/TinyJavaScriptGameLibrary/issues"
+  },
+  "homepage": "https://github.com/marcthird128/TinyJavaScriptGameLibrary#readme",
+  "dependencies": {
+    "webpack": "^5.97.1"
+  }
+}
